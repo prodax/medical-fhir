@@ -1,0 +1,178 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* medical_terminology
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-12 16:17+0000\n"
+"PO-Revision-Date: 2018-07-12 16:17+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.res_config_settings_view_form
+msgid "ATC classification"
+msgstr "ATC classification"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_res_config_settings_module_medical_terminology_atc
+msgid "ATC terminology"
+msgstr "Terminología ATC"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.res_config_settings_view_form
+msgid "Activates Anatomical, Therapeutic, Chemical classification system"
+msgstr "Activa el sistema de clasificación Anatómica, Terapéutica y Química(ATC)"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.res_config_settings_view_form
+msgid "Activates Systematized Nomenclature of Medicine – Clinical Terms (SNOMED-CT)"
+msgstr "Activa el SNOMED-CT"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_child_ids
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_child_ids
+msgid "Child"
+msgstr "Child"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_code
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_code
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_code
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_sct_concept_code
+msgid "Code"
+msgstr "Código"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_definition
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_definition
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_definition
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_atc_concept_definition
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_sct_concept_definition
+msgid "Definition"
+msgstr "Definición"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.medical_abstract_concept_multiparent_form
+#: model:ir.ui.view,arch_db:medical_terminology.medical_abstract_concept_uniparent_form
+msgid "Direct childs"
+msgstr "Hijos directos"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_display_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_display_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_editable
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_editable
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_editable
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_atc_concept_editable
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_sct_concept_editable
+msgid "Editable"
+msgstr "Editable"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_full_child_ids
+msgid "Full Child"
+msgstr "Full Child"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_full_parent_ids
+msgid "Full Parent"
+msgstr "Full Parent"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.medical_abstract_concept_multiparent_form
+msgid "Full childs"
+msgstr "Todo los hijos"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.medical_abstract_concept_multiparent_form
+msgid "Full parents"
+msgstr "Todo los padres"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_id
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_id
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_id
+msgid "ID"
+msgstr "ID (identificación)"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept___last_update
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent___last_update
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent___last_update
+msgid "Last Modified on"
+msgstr "Última modificación en"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_parent_left
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_atc_concept_parent_left
+msgid "Left Parent"
+msgstr "Padre izquierdo"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_atc_concept_name
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_sct_concept_name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_multiparent_parent_ids
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_parent_id
+msgid "Parent"
+msgstr "Padre"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_abstract_concept_uniparent_parent_right
+#: model:ir.model.fields,field_description:medical_terminology.field_medical_atc_concept_parent_right
+msgid "Right Parent"
+msgstr "Padre derecho"
+
+#. module: medical_terminology
+#: model:ir.model.fields,field_description:medical_terminology.field_res_config_settings_module_medical_terminology_sct
+msgid "SCT terminology"
+msgstr "Terminología SCT"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.res_config_settings_view_form
+msgid "SNOMED CT"
+msgstr "SNOMED CT"
+
+#. module: medical_terminology
+#: model:ir.ui.view,arch_db:medical_terminology.medical_abstract_concept_filter
+msgid "Search"
+msgstr "Búsqueda"
+
+#. module: medical_terminology
+#: model:ir.model,name:medical_terminology.model_medical_abstract_concept
+msgid "medical.abstract.concept"
+msgstr "medical.abstract.concept"
+
+#. module: medical_terminology
+#: model:ir.model,name:medical_terminology.model_medical_abstract_concept_multiparent
+msgid "medical.abstract.concept.multiparent"
+msgstr "medical.abstract.concept.multiparent"
+
+#. module: medical_terminology
+#: model:ir.model,name:medical_terminology.model_medical_abstract_concept_uniparent
+msgid "medical.abstract.concept.uniparent"
+msgstr "medical.abstract.concept.uniparent"
+
+#. module: medical_terminology
+#: model:ir.model,name:medical_terminology.model_res_config_settings
+msgid "res.config.settings"
+msgstr "res.config.settings"
+

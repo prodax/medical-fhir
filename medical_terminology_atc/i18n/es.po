@@ -1,0 +1,103 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* medical_terminology_atc
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-12 16:17+0000\n"
+"PO-Revision-Date: 2018-07-12 16:17+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: medical_terminology_atc
+#: model:ir.ui.view,arch_db:medical_terminology_atc.medical_atc_concept_filter
+msgid "ATC Filter"
+msgstr "Filtro ATC"
+
+#. module: medical_terminology_atc
+#: model:ir.actions.act_window,name:medical_terminology_atc.medical_medication_atc_concept_window_action
+#: model:ir.ui.view,arch_db:medical_terminology_atc.medical_sct_concept_form
+msgid "ATC classification"
+msgstr "Clasificación ATC"
+
+#. module: medical_terminology_atc
+#: model:ir.ui.view,arch_db:medical_terminology_atc.medical_sct_concept_tree
+msgid "ATC classifications"
+msgstr "Clasificaciones ATC"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_child_ids
+msgid "Child"
+msgstr "Child"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_code
+msgid "Code"
+msgstr "Código"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_id
+msgid "ID"
+msgstr "ID (identificación)"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept___last_update
+msgid "Last Modified on"
+msgstr "Última modificación en"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_write_uid
+msgid "Last Updated by"
+msgstr "Última actualización de"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_write_date
+msgid "Last Updated on"
+msgstr "Última actualización en"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_level_code
+msgid "Level Code"
+msgstr "Código de nivel"
+
+#. module: medical_terminology_atc
+#: model:res.groups,name:medical_terminology_atc.group_medical_atc_concept_display
+msgid "Medical ATC Concept Display"
+msgstr "Mostrar Conceptos ATC"
+
+#. module: medical_terminology_atc
+#: model:ir.ui.menu,name:medical_terminology_atc.medical_medication_atc_concept
+msgid "Medication ATC Concepts"
+msgstr "Gestionar Conceptos ATC"
+
+#. module: medical_terminology_atc
+#: model:ir.model.fields,field_description:medical_terminology_atc.field_medical_atc_concept_parent_id
+msgid "Parent"
+msgstr "Padre"
+
+#. module: medical_terminology_atc
+#: model:ir.model,name:medical_terminology_atc.model_medical_atc_concept
+msgid "medical.atc.concept"
+msgstr "medical.atc.concept"
+
