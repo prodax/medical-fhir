@@ -40,9 +40,6 @@
                 />
                 </div>
             </xpath>
-            <field name="company_type" position="attributes">
-                <attribute name="attrs">{'invisible': True}</attribute>
-            </field>
         </field>
     </record>
 
